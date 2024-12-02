@@ -1,0 +1,32 @@
+
+**** ARQUIVO DE AJUDA ****
+
+-----------------------------------------------------------------------------
+Funcionalidades do menu Arquivos
+
+-> Abrir Arquivo: abre um arquivo de escolha;
+
+-> Fechar Arquivo: fecha o arquivo atual;
+
+-> Sair: sai da aplicação.
+-----------------------------------------------------------------------------
+Funcionalidades do menu Configurações
+
+-> Padrões: altera os padrões de animação;
+
+-> Cores (Submenu)
+-> Fundo: altera a cor do fundo da animação;
+-> Animacao: altera cor da animação;
+
+-> Velocidade (Submenu)
+-> Lento: altera a velocidade de atualização da animação para lenta;
+-> Médio: altera a velocidade de atualização da animação para média;
+-> Rápido: altera a velocidade de atualização da animação para rápida;
+-> Muito Rápido: altera a velocidade de atualização da animação para muito rápido;
+
+-----------------------------------------------------------------------------
+Funcionalidades do menu Ajuda
+
+-> Ajuda: informações sobre as funcionalidades da aplicação;
+
+-> Sobre: informações gerais sobre a aplicação.

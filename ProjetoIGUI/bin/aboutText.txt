@@ -1,0 +1,14 @@
+Orientador: André Franceschi de Angelis 
+Instituição: FT-Unicamp
+
+Grupo 06
+
+Membros(Nome-RA):
+- Alona Nicolau de Oliveira	(249664)
+- Enzo Arilla Torresendi (255704)
+- Geovanne Silva Pereira (250328)
+- Julia Dias Luz (238761)
+- Samuel Lima Martins (173820)
+
+
+Esta é uma aplicação desenvolvida para a avaliação da turma A de SI400. Nesta aplicação se percebe o uso de threads, ouvintes e elementos básicos de interface.
